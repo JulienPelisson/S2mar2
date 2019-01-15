@@ -20,7 +20,7 @@ def sum_of_3_or_5_multiples(n)
 	end
 	puts final_sum
 	return	final_sum
-	end
+end
 
 	
 
@@ -33,9 +33,7 @@ def is_multiple_of_3_or_5?(i)
   	else
   		return false 
  	 end 	
-  end 
+end 
    
 
-  
-sum_of_3_or_5_multiples("asdf")
-sum_of_3_or_5_multiples(10)
+ 
